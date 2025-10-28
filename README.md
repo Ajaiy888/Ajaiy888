@@ -1,4 +1,4 @@
-👋 Hi, I’m Ajay Krishna(Data Analytics & Business Intelligence Professional)![download (1)](https://github.com/user-attachments/assets/64f38869-839f-42d2-b233-4f04a9d71f11)
+👋 Hi, I’m Ajay Krishna(Data Analytics & Business Intelligence Professional)
 
 I’m passionate about using data to solve business problems and enable informed decision-making.
 With expertise in data analytics, BI development, and cloud-based data solutions, I thrive on turning raw datasets into meaningful insights that drive performance and growth.
