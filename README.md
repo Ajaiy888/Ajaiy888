@@ -1,4 +1,4 @@
-👋 Hi, I’m Ajay Krishna(Data Analytics & Business Intelligence Professional)
+👋 Hi, I’m Ajay Krishna(Data Engineer & Business Intelligence Professional)
 
 I’m passionate about using data to solve business problems and enable informed decision-making.
 With expertise in data analytics, BI development, and cloud-based data solutions, I thrive on turning raw datasets into meaningful insights that drive performance and growth.
@@ -7,7 +7,7 @@ With expertise in data analytics, BI development, and cloud-based data solutions
 
 🛠️ Skills & Tools
 Category	Tools & Technologies	Proficiency
-Data Analytics	Data Extraction, Cleaning, Mapping, Mining, Transformation, EDA
+Data Analytics,	Data Engineering, Cleaning, Mapping, Mining, Transformation, EDA
 Programming Languages	SQL, Python (Pandas, NumPy)	
 Business Intelligence	Power BI, Excel (Pivot Tables, Power Query, Charts)
 Data Visualization	Power BI, Python (Matplotlib, Seaborn), Excel Charts 
@@ -31,7 +31,7 @@ End-to-end data analytics pipelines connecting SQL → Power BI → Business Imp
 
 🤝 Let’s Connect
 I’m always open to collaborating on data-driven projects, analytics challenges, or BI solutions.
-📧 ajaykrishnaworkofficial@gmail.com
+📧 ajaydataofficial@gmail.com
 
 ⭐ If you find my projects interesting, consider following me or starring a repo — your support means a lot!
 
